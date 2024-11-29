@@ -1,0 +1,29 @@
+{
+    "lista_de_compras": [
+        {
+            "item": "Leite",
+            "quantidade": 2,
+            "unidade": "litros"
+        },
+        {
+            "item": "Pão",
+            "quantidade": 1,
+            "unidade": "unidade"
+        },
+        {
+            "item": "Ovos",
+            "quantidade": 12,
+            "unidade": "unidades"
+        },
+        {
+            "item": "Maçãs",
+            "quantidade": 6,
+            "unidade": "unidades"
+        },
+        {
+            "item": "Peito de Frango",
+            "quantidade": 1,
+            "unidade": "kg"
+        }
+    ]
+}

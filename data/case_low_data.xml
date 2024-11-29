@@ -1,0 +1,27 @@
+<lista_de_compras>
+    <item>
+        <nome>Leite</nome>
+        <quantidade>2</quantidade>
+        <unidade>litros</unidade>
+    </item>
+    <item>
+        <nome>Pão</nome>
+        <quantidade>1</quantidade>
+        <unidade>unidade</unidade>
+    </item>
+    <item>
+        <nome>Ovos</nome>
+        <quantidade>12</quantidade>
+        <unidade>unidades</unidade>
+    </item>
+    <item>
+        <nome>Maçãs</nome>
+        <quantidade>6</quantidade>
+        <unidade>unidades</unidade>
+    </item>
+    <item>
+        <nome>Peito de Frango</nome>
+        <quantidade>1</quantidade>
+        <unidade>kg</unidade>
+    </item>
+</lista_de_compras>
