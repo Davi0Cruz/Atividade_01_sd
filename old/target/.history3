@@ -1,0 +1,5 @@
+1732992873947:exit
+1732993026897:help run
+1732993036158:help
+1732993068699:libraryDependencies += "com.google.protobuf" % "protobuf-java" % "4.29.0"
+1732993073098:exit

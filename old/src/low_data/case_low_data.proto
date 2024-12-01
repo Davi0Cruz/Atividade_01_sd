@@ -1,0 +1,12 @@
+syntax = "proto3";
+package low_data;
+option java_package = "low_data";
+
+message Compras {
+    repeated Item lista_compras = 10;
+}
+message Item {
+    string nome = 1;
+    float quantidade = 2;
+    string unidade = 3;
+}

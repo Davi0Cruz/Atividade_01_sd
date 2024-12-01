@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 9 products, 11 sources, 11 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/java/data/CItem.java, ${BASE}/src/main/java/data/Compras.java, ${BASE}/src/main/java/data/CCompras.java, ${BASE}/src/main/java/data/CContato.java, ${BASE}/src/main/java/data/Item.java, ${BASE}/src/main/java/data/Contato.java, ${BASE}/src/main/java/Main.java, ${BASE}/src/main/java/data/LowData.java, ${BASE}/src/main/java/data/CAgenda.java, ${BASE}/src/main/java/data/Agenda.java, ${BASE}/src/main/java/data/BigData.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

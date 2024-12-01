@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/src/main/java/Main.java:110:42: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable contatos[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable agenda of type data.Agenda[0m
+[0m[[0m[31merror[0m] [0m[0magenda.contatos[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m

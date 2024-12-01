@@ -1,0 +1,88 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.10.6 (Red Hat, Inc. Java 23.0.1)
+[debug] Load.defaultLoad until apply took 55.900828ms
+[debug]           Load.loadUnit: plugins took 32.952698ms
+[debug]           Load.loadUnit: defsScala took 0.214726ms
+[debug] [Loading] Scanning directory /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/project
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 9.37877 ms
+[debug]               Load.resolveProject(server-build) took 22.60121ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id server-build, base: /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/project, plugins: List(<none>))) took 42.777305ms
+[debug] [Loading] Done in /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/project, returning: (server-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 53.250423ms
+[debug]           Load.loadUnit: cleanEvalClasses took 0.144383ms
+[debug]         Load.loadUnit(file:/home/davi/Documents/UFC/SISTEMAS%20DISTRIBUIDOS/trabalhos/atividade_01/server/project/, ...) took 89.993371ms
+[debug]       Load.apply: load took 193.00555ms
+[debug]       Load.apply: resolveProjects took 6.740934ms
+[debug]       Load.apply: finalTransforms took 49.697798ms
+[debug]       Load.apply: config.delegates took 4.726035ms
+[debug]       Load.apply: Def.make(settings)... took 285.71425ms
+[debug]       Load.apply: structureIndex took 63.155454ms
+[debug]       Load.apply: mkStreams took 1.100922ms
+[info] loading project definition from /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug]     Load.loadUnit: plugins took 1123.994241ms
+[debug]     Load.loadUnit: defsScala took 0.002209ms
+[debug] [Loading] Scanning directory /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server
+[debug]       Load.loadUnit: mkEval took 2.44575ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 1.082714 ms
+[info] loading settings for project server from build.sbt...
+[debug]         Load.resolveProject(server) took 1.493602ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id server, base: /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server, plugins: List(<none>))) took 2.928947ms
+[debug] [Loading] Done in /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server, returning: (server)
+[debug]     Load.loadUnit: loadedProjectsRaw took 78.490933ms
+[debug]     Load.loadUnit: cleanEvalClasses took 2.646664ms
+[debug]   Load.loadUnit(file:/home/davi/Documents/UFC/SISTEMAS%20DISTRIBUIDOS/trabalhos/atividade_01/server/, ...) took 1206.201507ms
+[debug] Load.apply: load took 1215.982994ms
+[debug] Load.apply: resolveProjects took 0.080907ms
+[debug] Load.apply: finalTransforms took 7.236152ms
+[debug] Load.apply: config.delegates took 0.294398ms
+[debug] Load.apply: Def.make(settings)... took 55.503199ms
+[debug] Load.apply: structureIndex took 33.056927ms
+[debug] Load.apply: mkStreams took 0.002161ms
+[info] set current project to server (in build file:/home/davi/Documents/UFC/SISTEMAS%20DISTRIBUIDOS/trabalhos/atividade_01/server/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true

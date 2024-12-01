@@ -1,0 +1,12 @@
+syntax = "proto3";
+package data;
+option java_package = "data";
+
+message PCompras {
+    repeated PItem lista_compras = 10;
+}
+message PItem {
+    string nome = 1;
+    float quantidade = 2;
+    string unidade = 3;
+}

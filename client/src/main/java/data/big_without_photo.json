@@ -1,0 +1,104 @@
+{
+    "contacts": [
+        {
+            "name": "Alice Johnson",
+            "phone": "555-1234",
+            "email": "alice.johnson@example.com"
+        },
+        {
+            "name": "Bob Smith",
+            "phone": "555-5678",
+            "email": "bob.smith@example.com"
+        },
+        {
+            "name": "Carol White",
+            "phone": "555-8765",
+            "email": "carol.white@example.com"
+        },
+        {
+            "name": "David Brown",
+            "phone": "555-4321",
+            "email": "david.brown@example.com"
+        },
+        {
+            "name": "Eve Black",
+            "phone": "555-6789",
+            "email": "eve.black@example.com"
+        },
+        {
+            "name": "Frank Green",
+            "phone": "555-9876",
+            "email": "frank.green@example.com"
+        },
+        {
+            "name": "Grace Blue",
+            "phone": "555-3456",
+            "email": "grace.blue@example.com"
+        },
+        {
+            "name": "Hank Red",
+            "phone": "555-6543",
+            "email": "hank.red@example.com"
+        },
+        {
+            "name": "Ivy Yellow",
+            "phone": "555-7890",
+            "email": "ivy.yellow@example.com"
+        },
+        {
+            "name": "Jack Purple",
+            "phone": "555-0987",
+            "email": "jack.purple@example.com"
+        },
+        {
+            "name": "Karen Orange",
+            "phone": "555-2345",
+            "email": "karen.orange@example.com"
+        },
+        {
+            "name": "Leo Pink",
+            "phone": "555-5432",
+            "email": "leo.pink@example.com"
+        },
+        {
+            "name": "Mia Gray",
+            "phone": "555-8901",
+            "email": "mia.gray@example.com"
+        },
+        {
+            "name": "Nina Brown",
+            "phone": "555-1098",
+            "email": "nina.brown@example.com"
+        },
+        {
+            "name": "Oscar White",
+            "phone": "555-3456",
+            "email": "oscar.white@example.com"
+        },
+        {
+            "name": "Paul Black",
+            "phone": "555-6543",
+            "email": "paul.black@example.com"
+        },
+        {
+            "name": "Quincy Green",
+            "phone": "555-7890",
+            "email": "quincy.green@example.com"
+        },
+        {
+            "name": "Rachel Blue",
+            "phone": "555-0987",
+            "email": "rachel.blue@example.com"
+        },
+        {
+            "name": "Steve Red",
+            "phone": "555-2345",
+            "email": "steve.red@example.com"
+        },
+        {
+            "name": "Tina Yellow",
+            "phone": "555-5432",
+            "email": "tina.yellow@example.com"
+        }
+    ]
+}

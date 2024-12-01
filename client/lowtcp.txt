@@ -1,0 +1,544 @@
+19:57:48.411054 IP localhost.39644 > localhost.socalia: Flags [S], seq 2270719269, win 65495, options [mss 65495,sackOK,TS val 771778586 ecr 0,nop,wscale 7], length 0
+19:57:48.411083 IP localhost.socalia > localhost.39644: Flags [S.], seq 2921243673, ack 2270719270, win 65483, options [mss 65495,sackOK,TS val 771778587 ecr 771778586,nop,wscale 7], length 0
+19:57:48.411100 IP localhost.39644 > localhost.socalia: Flags [.], ack 1, win 512, options [nop,nop,TS val 771778587 ecr 771778587], length 0
+19:57:48.413065 IP localhost.39644 > localhost.socalia: Flags [P.], seq 1:5, ack 1, win 512, options [nop,nop,TS val 771778589 ecr 771778587], length 4
+19:57:48.413087 IP localhost.socalia > localhost.39644: Flags [.], ack 5, win 512, options [nop,nop,TS val 771778589 ecr 771778589], length 0
+19:57:48.416410 IP localhost.39644 > localhost.socalia: Flags [P.], seq 5:55, ack 1, win 512, options [nop,nop,TS val 771778592 ecr 771778589], length 50
+19:57:48.416428 IP localhost.socalia > localhost.39644: Flags [.], ack 55, win 512, options [nop,nop,TS val 771778592 ecr 771778592], length 0
+19:57:48.416784 IP localhost.39644 > localhost.socalia: Flags [P.], seq 55:84, ack 1, win 512, options [nop,nop,TS val 771778592 ecr 771778592], length 29
+19:57:48.416792 IP localhost.socalia > localhost.39644: Flags [.], ack 84, win 512, options [nop,nop,TS val 771778592 ecr 771778592], length 0
+19:57:48.417313 IP localhost.39644 > localhost.socalia: Flags [P.], seq 84:170, ack 1, win 512, options [nop,nop,TS val 771778593 ecr 771778592], length 86
+19:57:48.417320 IP localhost.socalia > localhost.39644: Flags [.], ack 170, win 512, options [nop,nop,TS val 771778593 ecr 771778593], length 0
+19:57:48.417384 IP localhost.39644 > localhost.socalia: Flags [P.], seq 170:172, ack 1, win 512, options [nop,nop,TS val 771778593 ecr 771778593], length 2
+19:57:48.417388 IP localhost.socalia > localhost.39644: Flags [.], ack 172, win 512, options [nop,nop,TS val 771778593 ecr 771778593], length 0
+19:57:48.417402 IP localhost.39644 > localhost.socalia: Flags [P.], seq 172:180, ack 1, win 512, options [nop,nop,TS val 771778593 ecr 771778593], length 8
+19:57:48.417405 IP localhost.socalia > localhost.39644: Flags [.], ack 180, win 512, options [nop,nop,TS val 771778593 ecr 771778593], length 0
+19:57:48.418885 IP localhost.39644 > localhost.socalia: Flags [P.], seq 180:203, ack 1, win 512, options [nop,nop,TS val 771778594 ecr 771778593], length 23
+19:57:48.418896 IP localhost.socalia > localhost.39644: Flags [.], ack 203, win 512, options [nop,nop,TS val 771778594 ecr 771778594], length 0
+19:57:48.418918 IP localhost.39644 > localhost.socalia: Flags [P.], seq 203:211, ack 1, win 512, options [nop,nop,TS val 771778594 ecr 771778594], length 8
+19:57:48.418922 IP localhost.socalia > localhost.39644: Flags [.], ack 211, win 512, options [nop,nop,TS val 771778594 ecr 771778594], length 0
+19:57:48.418971 IP localhost.39644 > localhost.socalia: Flags [P.], seq 211:234, ack 1, win 512, options [nop,nop,TS val 771778594 ecr 771778594], length 23
+19:57:48.418974 IP localhost.socalia > localhost.39644: Flags [.], ack 234, win 512, options [nop,nop,TS val 771778594 ecr 771778594], length 0
+19:57:48.418986 IP localhost.39644 > localhost.socalia: Flags [P.], seq 234:242, ack 1, win 512, options [nop,nop,TS val 771778594 ecr 771778594], length 8
+19:57:48.418990 IP localhost.socalia > localhost.39644: Flags [.], ack 242, win 512, options [nop,nop,TS val 771778594 ecr 771778594], length 0
+19:57:48.419034 IP localhost.39644 > localhost.socalia: Flags [P.], seq 242:266, ack 1, win 512, options [nop,nop,TS val 771778594 ecr 771778594], length 24
+19:57:48.419039 IP localhost.socalia > localhost.39644: Flags [.], ack 266, win 512, options [nop,nop,TS val 771778595 ecr 771778594], length 0
+19:57:48.419053 IP localhost.39644 > localhost.socalia: Flags [P.], seq 266:274, ack 1, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 8
+19:57:48.419057 IP localhost.socalia > localhost.39644: Flags [.], ack 274, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 0
+19:57:48.419091 IP localhost.39644 > localhost.socalia: Flags [P.], seq 274:295, ack 1, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 21
+19:57:48.419094 IP localhost.socalia > localhost.39644: Flags [.], ack 295, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 0
+19:57:48.419105 IP localhost.39644 > localhost.socalia: Flags [P.], seq 295:303, ack 1, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 8
+19:57:48.419109 IP localhost.socalia > localhost.39644: Flags [.], ack 303, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 0
+19:57:48.419134 IP localhost.39644 > localhost.socalia: Flags [P.], seq 303:326, ack 1, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 23
+19:57:48.419138 IP localhost.socalia > localhost.39644: Flags [.], ack 326, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 0
+19:57:48.419964 IP localhost.39644 > localhost.socalia: Flags [F.], seq 326, ack 1, win 512, options [nop,nop,TS val 771778595 ecr 771778595], length 0
+19:57:48.460196 IP localhost.socalia > localhost.39644: Flags [.], ack 327, win 512, options [nop,nop,TS val 771778636 ecr 771778595], length 0
+19:57:49.423450 IP localhost.41932 > localhost.talarian-tcp: Flags [S], seq 1506428311, win 65495, options [mss 65495,sackOK,TS val 771779599 ecr 0,nop,wscale 7], length 0
+19:57:49.423494 IP localhost.talarian-tcp > localhost.41932: Flags [S.], seq 366332672, ack 1506428312, win 65483, options [mss 65495,sackOK,TS val 771779599 ecr 771779599,nop,wscale 7], length 0
+19:57:49.423519 IP localhost.41932 > localhost.talarian-tcp: Flags [.], ack 1, win 512, options [nop,nop,TS val 771779599 ecr 771779599], length 0
+19:57:49.424069 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 1:5, ack 1, win 512, options [nop,nop,TS val 771779600 ecr 771779599], length 4
+19:57:49.424089 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 5, win 512, options [nop,nop,TS val 771779600 ecr 771779600], length 0
+19:57:49.424840 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 5:57, ack 1, win 512, options [nop,nop,TS val 771779600 ecr 771779600], length 52
+19:57:49.424855 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 57, win 512, options [nop,nop,TS val 771779600 ecr 771779600], length 0
+19:57:49.425144 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 57:59, ack 1, win 512, options [nop,nop,TS val 771779601 ecr 771779600], length 2
+19:57:49.425155 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 59, win 512, options [nop,nop,TS val 771779601 ecr 771779601], length 0
+19:57:49.425902 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 59:61, ack 1, win 512, options [nop,nop,TS val 771779601 ecr 771779601], length 2
+19:57:49.425915 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 61, win 512, options [nop,nop,TS val 771779601 ecr 771779601], length 0
+19:57:49.425949 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 61:65, ack 1, win 512, options [nop,nop,TS val 771779601 ecr 771779601], length 4
+19:57:49.425956 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 65, win 512, options [nop,nop,TS val 771779601 ecr 771779601], length 0
+19:57:49.426598 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 65:146, ack 1, win 512, options [nop,nop,TS val 771779602 ecr 771779601], length 81
+19:57:49.426609 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 146, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 0
+19:57:49.426669 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 146:148, ack 1, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 2
+19:57:49.426676 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 148, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 0
+19:57:49.426892 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 148:150, ack 1, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 2
+19:57:49.426899 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 150, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 0
+19:57:49.426926 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 150:169, ack 1, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 19
+19:57:49.426932 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 169, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 0
+19:57:49.426960 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 169:170, ack 1, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 1
+19:57:49.426967 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 170, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 0
+19:57:49.427013 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 170:176, ack 1, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 6
+19:57:49.427020 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 176, win 512, options [nop,nop,TS val 771779602 ecr 771779602], length 0
+19:57:49.427089 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 176:178, ack 1, win 512, options [nop,nop,TS val 771779603 ecr 771779602], length 2
+19:57:49.427095 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 178, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 0
+19:57:49.427115 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 178:197, ack 1, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 19
+19:57:49.427122 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 197, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 0
+19:57:49.427142 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 197:198, ack 1, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 1
+19:57:49.427149 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 198, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 0
+19:57:49.427189 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 198:204, ack 1, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 6
+19:57:49.427197 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 204, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 0
+19:57:49.427243 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 204:206, ack 1, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 2
+19:57:49.427250 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 206, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 0
+19:57:49.427270 IP localhost.41932 > localhost.talarian-tcp: Flags [P.], seq 206:226, ack 1, win 512, options [nop,nop,TS val 771779603 ecr 771779603], length 20
+19:57:49.428126 IP localhost.41932 > localhost.talarian-tcp: Flags [FP.], seq 226:294, ack 1, win 512, options [nop,nop,TS val 771779604 ecr 771779603], length 68
+19:57:49.432104 IP localhost.41932 > localhost.talarian-tcp: Flags [FP.], seq 226:294, ack 1, win 512, options [nop,nop,TS val 771779608 ecr 771779603], length 68
+19:57:49.432139 IP localhost.talarian-tcp > localhost.41932: Flags [.], ack 295, win 512, options [nop,nop,TS val 771779608 ecr 771779603,nop,nop,sack 1 {226:295}], length 0
+19:57:49.436784 IP localhost.talarian-tcp > localhost.41932: Flags [F.], seq 1, ack 295, win 512, options [nop,nop,TS val 771779612 ecr 771779603], length 0
+19:57:49.436825 IP localhost.41932 > localhost.talarian-tcp: Flags [.], ack 2, win 512, options [nop,nop,TS val 771779612 ecr 771779612], length 0
+19:57:50.434817 IP localhost.42628 > localhost.oms-nonsecure: Flags [S], seq 3469576870, win 65495, options [mss 65495,sackOK,TS val 771780610 ecr 0,nop,wscale 7], length 0
+19:57:50.434871 IP localhost.oms-nonsecure > localhost.42628: Flags [S.], seq 1103484602, ack 3469576871, win 65483, options [mss 65495,sackOK,TS val 771780610 ecr 771780610,nop,wscale 7], length 0
+19:57:50.434916 IP localhost.42628 > localhost.oms-nonsecure: Flags [.], ack 1, win 512, options [nop,nop,TS val 771780610 ecr 771780610], length 0
+19:57:50.435659 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 1:2, ack 1, win 512, options [nop,nop,TS val 771780611 ecr 771780610], length 1
+19:57:50.435697 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 2, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 0
+19:57:50.435767 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 2:3, ack 1, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 1
+19:57:50.435862 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 3, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 0
+19:57:50.435928 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 3:11, ack 1, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 8
+19:57:50.435953 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 11, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 0
+19:57:50.435972 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 11:14, ack 1, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 3
+19:57:50.435990 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 14, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 0
+19:57:50.436007 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 14:16, ack 1, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 2
+19:57:50.436023 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 16, win 512, options [nop,nop,TS val 771780611 ecr 771780611], length 0
+19:57:50.436069 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 16:19, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780611], length 3
+19:57:50.436102 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 19, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436119 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 19:23, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 4
+19:57:50.436137 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 23, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436153 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 23:26, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436171 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 26, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436186 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 26:29, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436203 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 29, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436219 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 29:32, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436236 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 32, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436251 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 32:35, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436269 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 35, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436285 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 35:38, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436302 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 38, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436317 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 38:41, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436334 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 41, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436350 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 41:44, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436367 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 44, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436382 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 44:47, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436399 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 47, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436414 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 47:50, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436431 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 50, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436447 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 50:53, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436467 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 53, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436483 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 53:56, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 3
+19:57:50.436749 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 56, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436773 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 56:82, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 26
+19:57:50.436844 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 82, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436863 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 82:86, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 4
+19:57:50.436929 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 86, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.436951 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 86:87, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 1
+19:57:50.437007 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 87, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 0
+19:57:50.437039 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 87:94, ack 1, win 512, options [nop,nop,TS val 771780612 ecr 771780612], length 7
+19:57:50.437099 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 94, win 512, options [nop,nop,TS val 771780613 ecr 771780612], length 0
+19:57:50.437117 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 94:102, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 8
+19:57:50.437174 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 102, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437192 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 102:109, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 7
+19:57:50.437249 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 109, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437294 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 109:116, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 7
+19:57:50.437329 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 116, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437347 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 116:117, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 1
+19:57:50.437438 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 117, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437457 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 117:128, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 11
+19:57:50.437528 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 128, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437546 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 128:136, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 8
+19:57:50.437603 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 136, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437621 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 136:143, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 7
+19:57:50.437677 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 143, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437695 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 143:150, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 7
+19:57:50.437751 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 150, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437768 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 150:157, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 7
+19:57:50.437831 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 157, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437849 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 157:165, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 8
+19:57:50.437904 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 165, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 0
+19:57:50.437923 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 165:172, ack 1, win 512, options [nop,nop,TS val 771780613 ecr 771780613], length 7
+19:57:50.438096 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 172, win 512, options [nop,nop,TS val 771780614 ecr 771780613], length 0
+19:57:50.438117 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 172:187, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 15
+19:57:50.438341 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 187, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 0
+19:57:50.438364 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 187:211, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 24
+19:57:50.438427 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 211, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 0
+19:57:50.438445 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 211:217, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 6
+19:57:50.438501 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 217, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 0
+19:57:50.438519 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 217:224, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 7
+19:57:50.438574 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 224, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 0
+19:57:50.438592 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 224:231, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 7
+19:57:50.438648 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 231, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 0
+19:57:50.438665 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 231:238, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 7
+19:57:50.438720 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 238, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 0
+19:57:50.438739 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 238:245, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 7
+19:57:50.438794 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 245, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 0
+19:57:50.438812 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 245:252, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 7
+19:57:50.438965 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 252, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 0
+19:57:50.438984 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 252:263, ack 1, win 512, options [nop,nop,TS val 771780614 ecr 771780614], length 11
+19:57:50.439071 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 263, win 512, options [nop,nop,TS val 771780615 ecr 771780614], length 0
+19:57:50.439091 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 263:268, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 5
+19:57:50.439152 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 268, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439170 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 268:276, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 8
+19:57:50.439230 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 276, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439249 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 276:284, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 8
+19:57:50.439304 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 284, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439323 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 284:291, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 7
+19:57:50.439378 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 291, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439397 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 291:298, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 7
+19:57:50.439453 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 298, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439498 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 298:306, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 8
+19:57:50.439681 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 306, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439704 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 306:322, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 16
+19:57:50.439775 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 322, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439795 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 322:331, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 9
+19:57:50.439852 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 331, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439878 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 331:339, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 8
+19:57:50.439950 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 339, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.439969 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 339:343, ack 1, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 4
+19:57:50.440047 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 343, win 512, options [nop,nop,TS val 771780615 ecr 771780615], length 0
+19:57:50.440069 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 343:348, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780615], length 5
+19:57:50.440142 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 348, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440162 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 348:361, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 13
+19:57:50.440266 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 361, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440286 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 361:379, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 18
+19:57:50.440349 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 379, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440368 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 379:390, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 11
+19:57:50.440432 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 390, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440452 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 390:401, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 11
+19:57:50.440540 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 401, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440558 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 401:417, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 16
+19:57:50.440614 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 417, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440631 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 417:428, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 11
+19:57:50.440702 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 428, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440720 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 428:438, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 10
+19:57:50.440779 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 438, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440796 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 438:449, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 11
+19:57:50.440852 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 449, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440870 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 449:454, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 5
+19:57:50.440925 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 454, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.440943 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 454:464, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 10
+19:57:50.440996 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 464, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 0
+19:57:50.441013 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 464:470, ack 1, win 512, options [nop,nop,TS val 771780616 ecr 771780616], length 6
+19:57:50.441109 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 470, win 512, options [nop,nop,TS val 771780617 ecr 771780616], length 0
+19:57:50.441129 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 470:471, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 1
+19:57:50.441185 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 471, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441203 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 471:481, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 10
+19:57:50.441261 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 481, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441279 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 481:492, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 11
+19:57:50.441333 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 492, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441350 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 492:502, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 10
+19:57:50.441418 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 502, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441436 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 502:513, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 11
+19:57:50.441528 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 513, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441547 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 513:529, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 16
+19:57:50.441603 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 529, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441621 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 529:537, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 8
+19:57:50.441677 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 537, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441694 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 537:547, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 10
+19:57:50.441749 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 547, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441767 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 547:558, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 11
+19:57:50.441822 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 558, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441841 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 558:569, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 11
+19:57:50.441918 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 569, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.441937 IP localhost.42628 > localhost.oms-nonsecure: Flags [P.], seq 569:572, ack 1, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 3
+19:57:50.441994 IP localhost.oms-nonsecure > localhost.42628: Flags [.], ack 572, win 512, options [nop,nop,TS val 771780617 ecr 771780617], length 0
+19:57:50.442381 IP localhost.42628 > localhost.oms-nonsecure: Flags [F.], seq 572, ack 1, win 512, options [nop,nop,TS val 771780618 ecr 771780617], length 0
+19:57:50.442957 IP localhost.oms-nonsecure > localhost.42628: Flags [F.], seq 1, ack 573, win 512, options [nop,nop,TS val 771780618 ecr 771780618], length 0
+19:57:50.443065 IP localhost.42628 > localhost.oms-nonsecure: Flags [.], ack 2, win 512, options [nop,nop,TS val 771780618 ecr 771780618], length 0
+19:57:51.445400 IP localhost.54098 > localhost.actifio-c2c: Flags [S], seq 2932923067, win 65495, options [mss 65495,sackOK,TS val 771781621 ecr 0,nop,wscale 7], length 0
+19:57:51.445452 IP localhost.actifio-c2c > localhost.54098: Flags [S.], seq 679743419, ack 2932923068, win 65483, options [mss 65495,sackOK,TS val 771781621 ecr 771781621,nop,wscale 7], length 0
+19:57:51.445488 IP localhost.54098 > localhost.actifio-c2c: Flags [.], ack 1, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 0
+19:57:51.445847 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 1:2, ack 1, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 1
+19:57:51.445870 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 2, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 0
+19:57:51.445913 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 2:3, ack 1, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 1
+19:57:51.445924 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 3, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 0
+19:57:51.445953 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 3:4, ack 1, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 1
+19:57:51.445964 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 4, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 0
+19:57:51.445986 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 4:5, ack 1, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 1
+19:57:51.445996 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 5, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 0
+19:57:51.446017 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 5:6, ack 1, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 1
+19:57:51.446041 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 6, win 512, options [nop,nop,TS val 771781621 ecr 771781621], length 0
+19:57:51.446088 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 6:7, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781621], length 1
+19:57:51.446098 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 7, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446120 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 7:8, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446129 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 8, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446149 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 8:9, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446159 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 9, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446178 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 9:10, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446188 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 10, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446206 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 10:11, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446214 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 11, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446232 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 11:12, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446242 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 12, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446256 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 12:13, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446262 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 13, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446275 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 13:14, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446281 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 14, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446296 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 14:15, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446349 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 15, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446378 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 15:24, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 9
+19:57:51.446389 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 24, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446403 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 24:27, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 3
+19:57:51.446413 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 27, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446472 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 27:28, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.446515 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 28, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446529 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 28:32, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 4
+19:57:51.446564 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 32, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446572 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 32:39, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 7
+19:57:51.446588 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 39, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446596 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 39:43, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 4
+19:57:51.446613 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 43, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446621 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 43:47, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 4
+19:57:51.446636 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 47, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446643 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 47:50, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 3
+19:57:51.446658 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 50, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446666 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 50:53, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 3
+19:57:51.446680 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 53, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446688 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 53:56, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 3
+19:57:51.446703 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 56, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446711 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 56:59, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 3
+19:57:51.446726 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 59, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446734 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 59:62, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 3
+19:57:51.446749 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 62, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446757 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 62:65, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 3
+19:57:51.446771 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 65, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446778 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 65:69, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 4
+19:57:51.446793 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 69, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446801 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 69:73, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 4
+19:57:51.446816 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 73, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446823 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 73:77, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 4
+19:57:51.446866 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 77, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446874 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 77:88, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 11
+19:57:51.446892 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 88, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446900 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 88:93, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 5
+19:57:51.446915 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 93, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446922 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 93:97, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 4
+19:57:51.446937 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 97, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446953 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 97:102, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 5
+19:57:51.446972 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 102, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.446981 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 102:105, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 3
+19:57:51.446992 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 105, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.447000 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 105:106, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 1
+19:57:51.447016 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 106, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 0
+19:57:51.447035 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 106:111, ack 1, win 512, options [nop,nop,TS val 771781622 ecr 771781622], length 5
+19:57:51.447063 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 111, win 512, options [nop,nop,TS val 771781623 ecr 771781622], length 0
+19:57:51.447070 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 111:116, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 5
+19:57:51.447086 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 116, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447095 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 116:119, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447110 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 119, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447118 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 119:122, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447133 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 122, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447146 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 122:126, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 4
+19:57:51.447163 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 126, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447171 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 126:127, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 1
+19:57:51.447187 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 127, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447198 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 127:131, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 4
+19:57:51.447224 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 131, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447232 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 131:134, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447252 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 134, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447260 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 134:138, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 4
+19:57:51.447275 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 138, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447287 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 138:141, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447303 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 141, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447311 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 141:142, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 1
+19:57:51.447327 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 142, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447335 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 142:145, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447350 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 145, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447358 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 145:148, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447373 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 148, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447381 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 148:151, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447396 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 151, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447405 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 151:154, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447420 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 154, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447428 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 154:155, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 1
+19:57:51.447442 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 155, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447450 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 155:158, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447465 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 158, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447473 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 158:161, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447490 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 161, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447497 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 161:165, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 4
+19:57:51.447642 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 165, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447650 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 165:190, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 25
+19:57:51.447666 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 190, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447674 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 190:193, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447690 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 193, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447699 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 193:196, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447714 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 196, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447722 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 196:199, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447737 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 199, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447744 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 199:203, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 4
+19:57:51.447759 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 203, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447767 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 203:206, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447783 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 206, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447803 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 206:210, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 4
+19:57:51.447838 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 210, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447846 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 210:214, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 4
+19:57:51.447862 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 214, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447870 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 214:217, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447884 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 217, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447892 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 217:220, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447906 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 220, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447914 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 220:223, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447929 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 223, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447938 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 223:226, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447953 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 226, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447961 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 226:229, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.447975 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 229, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.447983 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 229:232, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 3
+19:57:51.448000 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 232, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.448008 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 232:236, ack 1, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 4
+19:57:51.448022 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 236, win 512, options [nop,nop,TS val 771781623 ecr 771781623], length 0
+19:57:51.448042 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 236:239, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781623], length 3
+19:57:51.448064 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 239, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448072 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 239:243, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 4
+19:57:51.448088 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 243, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448095 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 243:247, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 4
+19:57:51.448113 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 247, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448120 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 247:251, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 4
+19:57:51.448135 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 251, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448144 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 251:254, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 3
+19:57:51.448159 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 254, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448166 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 254:256, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 2
+19:57:51.448181 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 256, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448217 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 256:257, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 1
+19:57:51.448241 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 257, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448248 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 257:258, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 1
+19:57:51.448265 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 258, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448273 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 258:262, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 4
+19:57:51.448407 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 262, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448414 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 262:283, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 21
+19:57:51.448433 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 283, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448441 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 283:285, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 2
+19:57:51.448457 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 285, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448465 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 285:288, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 3
+19:57:51.448479 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 288, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448488 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 288:291, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 3
+19:57:51.448502 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 291, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448510 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 291:294, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 3
+19:57:51.448524 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 294, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448532 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 294:297, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 3
+19:57:51.448546 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 297, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448554 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 297:300, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 3
+19:57:51.448568 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 300, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448577 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 300:303, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 3
+19:57:51.448595 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 303, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448613 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 303:307, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 4
+19:57:51.448979 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 307, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.448990 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 307:367, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 60
+19:57:51.449007 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 367, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 0
+19:57:51.449015 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 367:372, ack 1, win 512, options [nop,nop,TS val 771781624 ecr 771781624], length 5
+19:57:51.449050 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 372, win 512, options [nop,nop,TS val 771781625 ecr 771781624], length 0
+19:57:51.449061 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 372:378, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 6
+19:57:51.449080 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 378, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449088 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 378:384, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 6
+19:57:51.449103 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 384, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449125 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 384:389, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449140 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 389, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449150 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 389:390, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 1
+19:57:51.449213 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 390, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449220 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 390:406, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 16
+19:57:51.449262 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 406, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449271 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 406:415, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 9
+19:57:51.449286 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 415, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449294 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 415:417, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 2
+19:57:51.449309 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 417, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449318 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 417:422, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449331 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 422, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449339 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 422:423, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 1
+19:57:51.449354 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 423, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449362 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 423:426, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 3
+19:57:51.449377 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 426, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449384 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 426:429, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 3
+19:57:51.449400 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 429, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449413 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 429:434, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449428 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 434, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449438 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 434:439, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449448 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 439, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449456 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 439:440, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 1
+19:57:51.449471 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 440, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449479 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 440:444, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449494 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 444, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449502 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 444:448, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449516 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 448, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449525 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 448:452, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449540 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 452, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449549 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 452:455, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 3
+19:57:51.449564 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 455, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449571 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 455:459, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449586 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 459, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449594 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 459:463, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449608 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 463, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449616 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 463:467, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449630 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 467, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449638 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 467:471, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449653 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 471, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449661 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 471:475, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449675 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 475, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449683 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 475:479, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449697 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 479, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449705 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 479:480, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 1
+19:57:51.449719 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 480, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449736 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 480:481, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 1
+19:57:51.449749 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 481, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449767 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 481:482, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 1
+19:57:51.449788 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 482, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449796 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 482:485, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 3
+19:57:51.449813 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 485, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449821 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 485:490, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449836 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 490, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449844 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 490:494, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 4
+19:57:51.449859 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 494, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449867 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 494:499, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449881 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 499, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449890 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 499:504, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449904 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 504, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449912 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 504:509, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449927 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 509, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449935 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 509:514, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.449954 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 514, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449963 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 514:520, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 6
+19:57:51.449977 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 520, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.449989 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 520:525, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 5
+19:57:51.450000 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 525, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 0
+19:57:51.450036 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 525:526, ack 1, win 512, options [nop,nop,TS val 771781625 ecr 771781625], length 1
+19:57:51.450064 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 526, win 512, options [nop,nop,TS val 771781626 ecr 771781625], length 0
+19:57:51.450073 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 526:530, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 4
+19:57:51.450091 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 530, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450100 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 530:536, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 6
+19:57:51.450115 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 536, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450124 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 536:539, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 3
+19:57:51.450142 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 539, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450151 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 539:543, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 4
+19:57:51.450167 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 543, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450176 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 543:548, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450193 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 548, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450201 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 548:553, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450217 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 553, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450226 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 553:558, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450242 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 558, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450251 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 558:563, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450267 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 563, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450276 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 563:568, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450292 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 568, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450301 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 568:573, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450317 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 573, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450326 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 573:578, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450342 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 578, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450357 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 578:583, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450368 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 583, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450378 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 583:584, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 1
+19:57:51.450394 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 584, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450403 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 584:589, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450420 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 589, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450429 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 589:594, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450445 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 594, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450454 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 594:599, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450471 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 599, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450480 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 599:604, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450496 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 604, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450505 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 604:609, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450521 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 609, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450530 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 609:614, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 5
+19:57:51.450545 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 614, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.450554 IP localhost.54098 > localhost.actifio-c2c: Flags [P.], seq 614:618, ack 1, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 4
+19:57:51.450570 IP localhost.actifio-c2c > localhost.54098: Flags [.], ack 618, win 512, options [nop,nop,TS val 771781626 ecr 771781626], length 0
+19:57:51.451116 IP localhost.54098 > localhost.actifio-c2c: Flags [F.], seq 618, ack 1, win 512, options [nop,nop,TS val 771781627 ecr 771781626], length 0
+19:57:51.451212 IP localhost.actifio-c2c > localhost.54098: Flags [F.], seq 1, ack 619, win 512, options [nop,nop,TS val 771781627 ecr 771781627], length 0
+19:57:51.451255 IP localhost.54098 > localhost.actifio-c2c: Flags [.], ack 2, win 512, options [nop,nop,TS val 771781627 ecr 771781627], length 0
+19:57:52.525196 IP localhost.35790 > localhost.5104: Flags [S], seq 699099169, win 65495, options [mss 65495,sackOK,TS val 771782701 ecr 0,nop,wscale 7], length 0
+19:57:52.525237 IP localhost.5104 > localhost.35790: Flags [S.], seq 484976449, ack 699099170, win 65483, options [mss 65495,sackOK,TS val 771782701 ecr 771782701,nop,wscale 7], length 0
+19:57:52.525264 IP localhost.35790 > localhost.5104: Flags [.], ack 1, win 512, options [nop,nop,TS val 771782701 ecr 771782701], length 0
+19:57:52.544309 IP localhost.35790 > localhost.5104: Flags [P.], seq 1:122, ack 1, win 512, options [nop,nop,TS val 771782720 ecr 771782701], length 121
+19:57:52.544361 IP localhost.5104 > localhost.35790: Flags [.], ack 122, win 511, options [nop,nop,TS val 771782720 ecr 771782720], length 0
+19:57:52.545185 IP localhost.35790 > localhost.5104: Flags [F.], seq 122, ack 1, win 512, options [nop,nop,TS val 771782721 ecr 771782720], length 0
+19:57:52.586070 IP localhost.5104 > localhost.35790: Flags [.], ack 123, win 511, options [nop,nop,TS val 771782762 ecr 771782721], length 0
+19:57:53.105774 IP localhost.5104 > localhost.35790: Flags [F.], seq 1, ack 123, win 512, options [nop,nop,TS val 771783281 ecr 771782721], length 0
+19:57:53.105828 IP localhost.35790 > localhost.5104: Flags [.], ack 2, win 512, options [nop,nop,TS val 771783281 ecr 771783281], length 0
+19:57:53.105932 IP localhost.socalia > localhost.39644: Flags [F.], seq 1, ack 327, win 512, options [nop,nop,TS val 771783281 ecr 771778595], length 0
+19:57:53.105938 IP localhost.39644 > localhost.socalia: Flags [.], ack 2, win 512, options [nop,nop,TS val 771783281 ecr 771783281], length 0
+

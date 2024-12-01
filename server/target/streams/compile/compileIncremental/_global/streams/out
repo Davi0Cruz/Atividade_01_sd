@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 9 products, 11 sources, 5 libraries
+[debug] current source = Set(${BASE}/src/main/java/data/CItem.java, ${BASE}/src/main/java/data/Compras.java, ${BASE}/src/main/java/data/CCompras.java, ${BASE}/src/main/java/data/CContato.java, ${BASE}/src/main/java/data/Item.java, ${BASE}/src/main/java/data/Contato.java, ${BASE}/src/main/java/Main.java, ${BASE}/src/main/java/data/LowData.java, ${BASE}/src/main/java/data/CAgenda.java, ${BASE}/src/main/java/data/Agenda.java, ${BASE}/src/main/java/data/BigData.java)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

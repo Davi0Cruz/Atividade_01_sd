@@ -1,0 +1,34 @@
+13:57:47.239472 IP localhost.51826 > localhost.socalia: Flags [S], seq 3823554728, win 65495, options [mss 65495,sackOK,TS val 758583143 ecr 0,nop,wscale 7], length 0
+13:57:47.239501 IP localhost.socalia > localhost.51826: Flags [S.], seq 1125154482, ack 3823554729, win 65483, options [mss 65495,sackOK,TS val 758583143 ecr 758583143,nop,wscale 7], length 0
+13:57:47.239518 IP localhost.51826 > localhost.socalia: Flags [.], ack 1, win 512, options [nop,nop,TS val 758583143 ecr 758583143], length 0
+13:57:47.242615 IP localhost.51826 > localhost.socalia: Flags [P.], seq 1:5, ack 1, win 512, options [nop,nop,TS val 758583146 ecr 758583143], length 4
+13:57:47.242632 IP localhost.socalia > localhost.51826: Flags [.], ack 5, win 512, options [nop,nop,TS val 758583146 ecr 758583146], length 0
+13:57:47.271380 IP localhost.51826 > localhost.socalia: Flags [P.], seq 5:36, ack 1, win 512, options [nop,nop,TS val 758583175 ecr 758583146], length 31
+13:57:47.271403 IP localhost.socalia > localhost.51826: Flags [.], ack 36, win 512, options [nop,nop,TS val 758583175 ecr 758583175], length 0
+13:57:47.275353 IP localhost.51826 > localhost.socalia: Flags [P.], seq 36:126, ack 1, win 512, options [nop,nop,TS val 758583179 ecr 758583175], length 90
+13:57:47.275371 IP localhost.socalia > localhost.51826: Flags [.], ack 126, win 512, options [nop,nop,TS val 758583179 ecr 758583179], length 0
+13:57:47.275530 IP localhost.51826 > localhost.socalia: Flags [P.], seq 126:128, ack 1, win 512, options [nop,nop,TS val 758583179 ecr 758583179], length 2
+13:57:47.275536 IP localhost.socalia > localhost.51826: Flags [.], ack 128, win 512, options [nop,nop,TS val 758583179 ecr 758583179], length 0
+13:57:47.275558 IP localhost.51826 > localhost.socalia: Flags [P.], seq 128:136, ack 1, win 512, options [nop,nop,TS val 758583179 ecr 758583179], length 8
+13:57:47.275562 IP localhost.socalia > localhost.51826: Flags [.], ack 136, win 512, options [nop,nop,TS val 758583179 ecr 758583179], length 0
+13:57:47.278500 IP localhost.51826 > localhost.socalia: Flags [P.], seq 136:159, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583179], length 23
+13:57:47.278513 IP localhost.socalia > localhost.51826: Flags [.], ack 159, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.278540 IP localhost.51826 > localhost.socalia: Flags [P.], seq 159:167, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 8
+13:57:47.278544 IP localhost.socalia > localhost.51826: Flags [.], ack 167, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.278611 IP localhost.51826 > localhost.socalia: Flags [P.], seq 167:190, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 23
+13:57:47.278615 IP localhost.socalia > localhost.51826: Flags [.], ack 190, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.278633 IP localhost.51826 > localhost.socalia: Flags [P.], seq 190:198, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 8
+13:57:47.278637 IP localhost.socalia > localhost.51826: Flags [.], ack 198, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.278688 IP localhost.51826 > localhost.socalia: Flags [P.], seq 198:222, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 24
+13:57:47.278692 IP localhost.socalia > localhost.51826: Flags [.], ack 222, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.278708 IP localhost.51826 > localhost.socalia: Flags [P.], seq 222:230, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 8
+13:57:47.278712 IP localhost.socalia > localhost.51826: Flags [.], ack 230, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.278761 IP localhost.51826 > localhost.socalia: Flags [P.], seq 230:251, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 21
+13:57:47.278764 IP localhost.socalia > localhost.51826: Flags [.], ack 251, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.278781 IP localhost.51826 > localhost.socalia: Flags [P.], seq 251:259, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 8
+13:57:47.278784 IP localhost.socalia > localhost.51826: Flags [.], ack 259, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.278825 IP localhost.51826 > localhost.socalia: Flags [P.], seq 259:282, ack 1, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 23
+13:57:47.278828 IP localhost.socalia > localhost.51826: Flags [.], ack 282, win 512, options [nop,nop,TS val 758583182 ecr 758583182], length 0
+13:57:47.279337 IP localhost.51826 > localhost.socalia: Flags [F.], seq 282, ack 1, win 512, options [nop,nop,TS val 758583183 ecr 758583182], length 0
+13:57:47.320205 IP localhost.socalia > localhost.51826: Flags [.], ack 283, win 512, options [nop,nop,TS val 758583224 ecr 758583183], length 0
+
