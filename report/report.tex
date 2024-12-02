@@ -211,7 +211,6 @@ A partir disso somamos o tamanho dos pacotes com o AWK.
 Analisando os resultados, podemos perceber que o Protobuf é o mais eficiente em relação ao tamanho do pacote, seguido pelo Json e XML.
 Como já era esperado, a Serialização normal e a Customizada tiveram um tamanho de pacote maior, isso se deve ao fato de que elas enviam o objeto inteiro, enquanto o Json e XML enviam apenas os dados.
 
-
 \begin{figure}[H]
     \centering
     \begin{tikzpicture}
@@ -241,7 +240,8 @@ Como já era esperado, a Serialização normal e a Customizada tiveram um tamanh
     \end{tikzpicture}
     \caption{Agenda de contatos}
 \end{figure}
-Para a agenda de contatos, percebe-se que para grande volume de dados as Serializações praticamente empatam e não faz muita diferença qual usar, o único detalhe foi que a Serialização ganhou disparado de todos os outros, isso se deve ao fato de termos usado a mesma foto em todos os contatos,ou seja, o mesmo ponteiro, então provalemente a Serialização percebeu isso enviu só uma vez.
+Para a agenda de contatos, percebe-se que para grande volume de dados as Serializações praticamente empatam e não faz muita diferença qual usar, o único detalhe foi que a Serialização ganhou disparado de todos os outros, isso se deve ao fato de termos usado a mesma foto em todos os contatos,ou seja, o mesmo ponteiro, então provalemente a Serialização percebeu isso e enviu só uma vez. Considerando também que a Serialização Customizada teve um tamanho dos pacotes maior, isso se deve ao fato de que os dados por serem maioria em texto, não houve uma otimização significativa, se houve muitos números a Serialização Customizada poderia ter um tamanho menor.
+
 De modo geral, o Protobuf e o Json são os mais eficientes em relação ao tamanho do pacote, mas é importante sempre analizar o problema e ver se existe uma forma melhor de transferir os seus dados para o seu caso, como a foi a Serialização que descobriu sozinha que a foto era a mesma em todos os contatos.
 
 \appendix
