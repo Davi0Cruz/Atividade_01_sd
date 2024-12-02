@@ -1,5 +1,1 @@
-[0m[[0m[31merror[0m] [0m[0m/home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/src/main/java/Main.java:153:92: cannot find symbol[0m
-[0m[[0m[31merror[0m] [0m[0m  symbol:   method copy()[0m
-[0m[[0m[31merror[0m] [0m[0m  location: variable photoData of type java.lang.String[0m
-[0m[[0m[31merror[0m] [0m[0mphotoData.copy[0m
-[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/src/main/java/Main.java:89:24: ';' expected[0m

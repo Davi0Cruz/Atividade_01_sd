@@ -107,7 +107,6 @@ public class Main {
                 Socket connectionSocket = listenSocket.accept();
                 ObjectInputStream inFromClient = new ObjectInputStream(connectionSocket.getInputStream());
                 Agenda agenda = (Agenda) inFromClient.readObject();
-                System.out.println(agenda.itens[0].foto);
                 System.out.println("Received");
             } catch (IOException e) {
                 e.printStackTrace();

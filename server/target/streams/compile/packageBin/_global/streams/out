@@ -1,1 +1,75 @@
-[debug] Jar uptodate: /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/server_2.13-0.1.jar
+[debug] Packaging /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/server_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	data
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data
+[debug] 	data/LowData$ComprasOrBuilder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$ComprasOrBuilder.class
+[debug] 	data/LowData$Compras$Builder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$Compras$Builder.class
+[debug] 	data/LowData$Compras$1.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$Compras$1.class
+[debug] 	data/LowData$Compras.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$Compras.class
+[debug] 	data/LowData$ItemOrBuilder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$ItemOrBuilder.class
+[debug] 	data/LowData$Item$Builder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$Item$Builder.class
+[debug] 	data/LowData$Item$1.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$Item$1.class
+[debug] 	data/LowData$Item.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$Item.class
+[debug] 	data/LowData.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData.class
+[debug] 	data/CCompras.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/CCompras.class
+[debug] 	data/CItem.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/CItem.class
+[debug] 	data/Compras.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/Compras.class
+[debug] 	data/Item.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/Item.class
+[debug] 	data/LowData$PComprasOrBuilder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$PComprasOrBuilder.class
+[debug] 	data/LowData$PCompras$Builder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$PCompras$Builder.class
+[debug] 	data/LowData$PCompras$1.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$PCompras$1.class
+[debug] 	data/LowData$PCompras.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$PCompras.class
+[debug] 	data/LowData$PItemOrBuilder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$PItemOrBuilder.class
+[debug] 	data/LowData$PItem$Builder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$PItem$Builder.class
+[debug] 	data/LowData$PItem$1.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$PItem$1.class
+[debug] 	data/LowData$PItem.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/LowData$PItem.class
+[debug] 	data/BigData$PAgendaOrBuilder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData$PAgendaOrBuilder.class
+[debug] 	data/BigData$PAgenda$Builder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData$PAgenda$Builder.class
+[debug] 	data/BigData$PAgenda$1.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData$PAgenda$1.class
+[debug] 	data/BigData$PAgenda.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData$PAgenda.class
+[debug] 	data/BigData$PContatoOrBuilder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData$PContatoOrBuilder.class
+[debug] 	data/BigData$PContato$Builder.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData$PContato$Builder.class
+[debug] 	data/BigData$PContato$1.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData$PContato$1.class
+[debug] 	data/BigData$PContato.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData$PContato.class
+[debug] 	data/BigData.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/BigData.class
+[debug] 	data/Agenda.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/Agenda.class
+[debug] 	data/Contato.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/Contato.class
+[debug] 	data/CAgenda.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/CAgenda.class
+[debug] 	data/CContato.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/data/CContato.class
+[debug] 	Main.class
+[debug] 	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/server/target/scala-2.13/classes/Main.class
+[debug] Done packaging.

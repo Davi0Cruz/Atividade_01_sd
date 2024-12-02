@@ -85,8 +85,11 @@ public class Main {
             File file = new File("/home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/src/main/java/data/low_data.json");
             json = new Scanner(file).useDelimiter("\\Z").next().replaceAll("\n", "");
             clientSocket = new Socket("localhost", 5102);
-            DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
-            outToServer.writeBytes(json + '\n');
+            BufferedOutputStream outToServer = new BufferedOutputStream(clientSocket.getOutputStream());
+            json = json +'\n';
+            //outToServer.writeBytes(json + '\n');
+            outToServer.write(json.getBytes());
+            outToServer.flush();
             System.out.println("Sended");
             clientSocket.close();
             Thread.sleep(1000); // Sleep for 1 second
@@ -104,8 +107,10 @@ public class Main {
             File file = new File("/home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/src/main/java/data/low_data.xml");
             xml = new Scanner(file).useDelimiter("\\Z").next().replaceAll("\n", "");
             clientSocket = new Socket("localhost", 5103);
-            DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
-            outToServer.writeBytes(xml + '\n');
+            BufferedOutputStream outToServer = new BufferedOutputStream(clientSocket.getOutputStream());
+            xml = xml +'\n';
+            outToServer.write(xml.getBytes());
+            outToServer.flush();
             System.out.println("Sended");
             clientSocket.close();
             Thread.sleep(1000); // Sleep for 1 second
@@ -238,8 +243,10 @@ public class Main {
             File file = new File("/home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/src/main/java/data/big_data.json");
             bigJson = new Scanner(file).useDelimiter("\\Z").next().replaceAll("\n", "");
             clientSocket = new Socket("localhost", 5202);
-            DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
-            outToServer.writeBytes(bigJson + '\n');
+            BufferedOutputStream outToServer = new BufferedOutputStream(clientSocket.getOutputStream());
+            bigJson = bigJson +'\n';
+            outToServer.write(bigJson.getBytes());
+            outToServer.flush();
             System.out.println("Sended");
             clientSocket.close();
             Thread.sleep(1000); // Sleep for 1 second
@@ -256,8 +263,10 @@ public class Main {
             File file = new File("/home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/src/main/java/data/big_data.xml");
             bigXml = new Scanner(file).useDelimiter("\\Z").next().replaceAll("\n", "");
             clientSocket = new Socket("localhost", 5203);
-            DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
-            outToServer.writeBytes(bigXml + '\n');
+            BufferedOutputStream outToServer = new BufferedOutputStream(clientSocket.getOutputStream());
+            bigXml = bigXml +'\n';
+            outToServer.write(bigXml.getBytes());
+            outToServer.flush();
             System.out.println("Sended");
             clientSocket.close();
             Thread.sleep(1000); // Sleep for 1 second

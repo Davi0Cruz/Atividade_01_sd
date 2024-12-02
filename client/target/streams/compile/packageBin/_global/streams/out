@@ -1,1 +1,95 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/client_2.13-0.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/client_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData$ComprasOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData$ComprasOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData$Compras$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData$Compras$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData$Compras$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData$Compras$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData$Compras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData$Compras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData$ItemOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData$ItemOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData$Item$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData$Item$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData$Item$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData$Item$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData$Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData$Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	java/LowData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/java/LowData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$ComprasOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$ComprasOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$Compras$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$Compras$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$Compras$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$Compras$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$Compras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$Compras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$ItemOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$ItemOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$Item$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$Item$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$Item$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$Item$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$PComprasOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$PComprasOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$PCompras$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$PCompras$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$PCompras$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$PCompras$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$PCompras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$PCompras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$PItemOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$PItemOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$PItem$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$PItem$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$PItem$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$PItem$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/LowData$PItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/LowData$PItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData$PAgendaOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData$PAgendaOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData$PAgenda$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData$PAgenda$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData$PAgenda$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData$PAgenda$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData$PAgenda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData$PAgenda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData$PContatoOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData$PContatoOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData$PContato$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData$PContato$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData$PContato$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData$PContato$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData$PContato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData$PContato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/BigData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/BigData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/Agenda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/Agenda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/Contato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/Contato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/CContato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/CContato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/CCompras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/CCompras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/CItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/CItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/Compras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/Compras.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/CAgenda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/data/CAgenda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davi/Documents/UFC/SISTEMAS DISTRIBUIDOS/trabalhos/atividade_01/client/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
